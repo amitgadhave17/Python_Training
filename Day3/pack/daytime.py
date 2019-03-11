@@ -1,7 +1,6 @@
 import datetime
 def method():
     print('Hello World')
-    
     print(datetime.datetime.now())
 
 def main():
